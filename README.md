@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋 I'm Monirul Islam</h2>
 <h3 align="center">Web Designer</h3>
 <p align="center">As a Web Designer with over 6+ years of experience in Software Develpment Section. My areas of expertise include Website Responsive Design. I've worked on Multple projects at time such as </p>
-<ul align="center">
+<p align="center">
+<ul>
 <li>1. <a href="https://ficodesign.com">Fico</a> </li>
 <li>2. <a href="https://izakaya.com.bd">izakaya_web</a> </li>
 <li>3. <a href="https://erp.izakaya.com.bd">izakaya_erp</a></li>
@@ -12,7 +13,7 @@
 <li>8. <a href="https://dineaxis.com">Dineaxis_web</a> </li>
 <li>8. <a href="https://www.ishoimpactlab.com">Ishoimpactlab</a> /</li>
 <li>9. <a href="https://platformsfoundation.org">Platfroms-foundation</a></li>
-</ul>
+</ul></P>
 <p align="center">I'm passionate about Web Design that's user-friendly, reliable, and scalable.</p>
 <!--
 **monirul89/monirul89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
