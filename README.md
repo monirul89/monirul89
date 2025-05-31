@@ -1,3 +1,6 @@
+<!--<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Profile Banner" width="100%" />
+</p>-->
 <h2 align="center">Hi 👋 I'm Monirul Islam</h2>
 <h3 align="center">Web Designer</h3>
 <p>As a Web Designer with over 6+ years of experience in Software Develpment Section. My areas of expertise include Website Responsive Design. I've worked on Multple projects at time such as </p>
